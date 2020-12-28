@@ -42,7 +42,7 @@ __webpack_require__.r(__webpack_exports__);
 
 
 const routes = [
-    { path: "/:session", component: _stripe_stripe_component__WEBPACK_IMPORTED_MODULE_2__["StripeComponent"] }
+    { path: "stripe/:session", component: _stripe_stripe_component__WEBPACK_IMPORTED_MODULE_2__["StripeComponent"] }
 ];
 class AppRoutingModule {
 }
